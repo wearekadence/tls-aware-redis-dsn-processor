@@ -1,6 +1,6 @@
 {
     "name": "wearekadence/tls-aware-redis-dsn-processor",
-    "type": "library",
+    "type": "symfony-bundle",
     "autoload": {
         "psr-4": {
           "WeAreKadence\\": "src/"
