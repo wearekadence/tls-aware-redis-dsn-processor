@@ -1,6 +1,6 @@
 <?php
 
-namespace WeAreKadence;
+namespace WeAreKadence\TlsAwareRedisDsnProcessor;
 
 use Symfony\Component\DependencyInjection\EnvVarProcessorInterface;
 

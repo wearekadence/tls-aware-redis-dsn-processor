@@ -3,10 +3,12 @@
     "type": "symfony-bundle",
     "autoload": {
         "psr-4": {
-          "WeAreKadence\\": "src/"
+          "WeAreKadence\\TlsAwareRedisDsnProcessor\\": "src/"
         }
     },
     "require": {
+        "php": ">=7.4",
+        "symfony/framework-bundle": "^5.2",
         "symfony/dependency-injection": "6.*"
     }
 }
