@@ -1,9 +1,9 @@
 {
-    "name": "wearekadence/tls-aware-redis-dsn-processor",
+    "name": "kadence/tls-aware-redis-dsn-processor",
     "type": "symfony-bundle",
     "autoload": {
         "psr-4": {
-          "WeAreKadence\\TlsAwareRedisDsnProcessor\\": "src/"
+          "Kadence\\TlsAwareRedisDsnProcessor\\": "src/"
         }
     },
     "require": {

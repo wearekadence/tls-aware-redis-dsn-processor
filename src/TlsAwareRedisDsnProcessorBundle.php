@@ -1,6 +1,6 @@
 <?php
 
-namespace WeAreKadence\TlsAwareRedisDsnProcessor;
+namespace Kadence\TlsAwareRedisDsnProcessor;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
