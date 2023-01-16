@@ -1,5 +1,5 @@
 services:
   we_are_kadence.tls_aware_redis_dsn_env_var_processor:
-    class: WeAreKadence\TlsAwareRedisDsnProcessor\TlsAwareRedisSchemeEnvVarProcessor
+    class: Kadence\TlsAwareRedisDsnProcessor\TlsAwareRedisSchemeEnvVarProcessor
     tags:
       - { name: container.env_var_processor }
